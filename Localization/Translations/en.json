@@ -1,0 +1,62 @@
+{
+    "LOGIN": {
+        "LOGIN_TITLE": "LogIn",
+        "LOGIN_EMAIL_PLACEHOLDER": "E-mail",
+        "LOGIN_PASSWORD_PLACEHOLDER": "Password",
+        "LOGIN_BUTTON":"Log in",
+        "LOGIN_CREATE_ACCOUNT":"Create account"
+    },
+    "REGISTER": {
+        "REGISTER_TITLE": "Register",
+        "REGISTER_EMAIL_PLACEHOLDER": "Email",
+        "REGISTER_PASSWORD_PLACEHOLDER": "Password",
+        "REGISTER_NAME_PLACEHOLDER": "Name/Names",
+        "REGISTER_LAST_NAME_PLACEHOLDER": "Last name",
+        "REGISTER_MOTHERS_LAST_NAME_PLACEHOLDER": "Mother´s last name",
+        "REGISTER_PHONE_NUMBER_PLACEHOLDER": "Phone number",
+        "REGISTER_STATE_TEXT": "State",
+        "REGISTER_TOWNSHIP_TEXT": "Township",
+        "REGISTER_KIND_ACCOUNT": "Kind of account",
+        "REGISTER_SELECT_KIND_ACCOUNT_WAITER": "Waiter",
+        "REGISTER_SELECT_KIND_ACCOUNT_CLIENT": "Client"
+    },
+    "TODOS_SIGN_OUT_TEXT": "Sign out",
+    "TABS_CLIENT": {
+        "TABS_MY_EVENTS": "My events",
+        "TABS_CREATE_EVENT": "Create event",
+        "TABS_WATCH_PROFILE": "Profile"
+    },
+    "TABS_WAITER": {
+        "TABS_EVENTS": "Events",
+        "TABS_MY_EVENTS": "My events",
+        "TABS_WATCH_PROFILE": "Profile"
+    },
+    "WAITER_TODO_TABS":{
+        "NEW_PUBLICATIONS_TEXT": "New publications",
+        "ACCEPT_BUTTON": "Accept",
+        "MY_EVENTS_TEXT": "My events",
+        "NAME_PLACEHOLDER": "Name / Names",
+        "LAST_NAME_PLACEHOLDER": "Last name",
+        "MOTHERS_LAST_NAME_PLACEHOLDER": "Mother´s last name",
+        "PHONE_NUMBER_PLACEHOLDER": "Phone number",
+        "STATE_PLACEHOLDER": "State",
+        "TOWNSHIP_PLACEHOLDER": "Townhip",
+        "SELECT_IMAGE": "Select image"
+    },
+    "CLIENT_TODO_TABS": {
+        "EVENT_NAME": "Event name",
+        "REQUIREMENTS": "Waiters requirements",
+        "WAITERS_QUANTITY": "Waiters quantity",
+        "PAYMENT": "Payment per waiter",
+        "EVENT_DAY": "Day of the event",
+        "STARTING_EVENT": "Starting time",
+        "ENDING_EVENT": "Ending time",
+        "SUBURB": "Suburb",
+        "STREET": "Street",
+        "OUTDOOR_NUMBER": "Outdoor number",
+        "INTERIOR_NUMBER": "Interior number",
+        "PUBLISH_EVENT_BUTTON": "Publish event",
+        "NEW_PUBLICATIONS_TEXT": "New publications"
+
+    }
+}

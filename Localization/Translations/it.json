@@ -1,0 +1,62 @@
+{
+    "LOGIN": {
+        "LOGIN_TITLE": "Inserire",
+        "LOGIN_EMAIL_PLACEHOLDER": "Indirizzo e-mail",
+        "LOGIN_PASSWORD_PLACEHOLDER": "¨Parola d'ordine",
+        "LOGIN_BUTTON":"Entrare dentro",
+        "LOGIN_CREATE_ACCOUNT":"Creare un profilo"
+    },
+    "REGISTER": {
+        "REGISTER_TITLE": "Registra",
+        "REGISTER_EMAIL_PLACEHOLDER": "indirizzo e-mail",
+        "REGISTER_PASSWORD_PLACEHOLDER": "parola d'ordine",
+        "REGISTER_NAME_PLACEHOLDER": "nome/nomi",
+        "REGISTER_LAST_NAME_PLACEHOLDER": "Cognome paterno",
+        "REGISTER_MOTHERS_LAST_NAME_PLACEHOLDER": "Cognome della madre",
+        "REGISTER_PHONE_NUMBER_PLACEHOLDER": "Numero di telefono",
+        "REGISTER_STATE_TEXT": "Stato",
+        "REGISTER_TOWNSHIP_TEXT": "Comune",
+        "REGISTER_KIND_ACCOUNT": "Tipo di conto",
+        "REGISTER_SELECT_KIND_ACCOUNT_WAITER": "Cameriere",
+        "REGISTER_SELECT_KIND_ACCOUNT_CLIENT": "Cliente"
+    },
+    "TODOS_SIGN_OUT_TEXT": "Disconnettersi",
+    "TABS_CLIENT": {
+        "TABS_MY_EVENTS": "I miei eventi",
+        "TABS_CREATE_EVENT": "crea Evento",
+        "TABS_WATCH_PROFILE": "Profilo"
+    },
+    "TABS_WAITER": {
+        "TABS_EVENTS": "Eventis",
+        "TABS_MY_EVENTS": "I miei eventi",
+        "TABS_WATCH_PROFILE": "Profilo"
+    },
+    "WAITER_TODO_TABS":{
+        "NEW_PUBLICATIONS_TEXT": "nuovi post",
+        "ACCEPT_BUTTON": "accettare",
+        "MY_EVENTS_TEXT": "i miei eventi",
+        "NAME_PLACEHOLDER": "nome/nomi",
+        "LAST_NAME_PLACEHOLDER": "Cognome paterno",
+        "MOTHERS_LAST_NAME_PLACEHOLDER": "Cognome della madre",
+        "PHONE_NUMBER_PLACEHOLDER": "Numero di telefono",
+        "STATE_PLACEHOLDER": "Stato",
+        "TOWNSHIP_PLACEHOLDER": "Comune",
+        "SELECT_IMAGE": "seleziona immagine"
+    },
+    "CLIENT_TODO_TABS": {
+        "EVENT_NAME": "Nome dell'evento",
+        "REQUIREMENTS": "Requisiti",
+        "WAITERS_QUANTITY": "Numero di camerieri",
+        "PAYMENT": "Pagamento",
+        "EVENT_DAY": "Giorno dell'evento",
+        "STARTING_EVENT": "Inizio dell'evento",
+        "ENDING_EVENT": "Fine dell'evento",
+        "SUBURB": "Colonia",
+        "STREET": "Strada",
+        "OUTDOOR_NUMBER": "Numero all'aperto",
+        "INTERIOR_NUMBER": "Numero interno (non obbligatorio",
+        "PUBLISH_EVENT_BUTTON": "Post evento",
+        "NEW_PUBLICATIONS_TEXT": "nuovi post"
+
+    }
+}

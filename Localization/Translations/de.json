@@ -1,0 +1,63 @@
+{
+    "LOGIN": {
+        "LOGIN_TITLE": "Anmeldung",
+        "LOGIN_EMAIL_PLACEHOLDER": "E-mail",
+        "LOGIN_PASSWORD_PLACEHOLDER": "Passwort",
+        "LOGIN_BUTTON":"Log in",
+        "LOGIN_CREATE_ACCOUNT":"Benutzerkonto erstellen"
+    },
+    "REGISTER": {
+        "REGISTER_TITLE": "Aufzeichnen",
+        "REGISTER_EMAIL_PLACEHOLDER": "Email",
+        "REGISTER_PASSWORD_PLACEHOLDER": "Passwort",
+        "REGISTER_NAME_PLACEHOLDER": "Name / Namen",
+        "REGISTER_LAST_NAME_PLACEHOLDER": "Nachname",
+        "REGISTER_MOTHERS_LAST_NAME_PLACEHOLDER": "Nachname der Mutter",
+        "REGISTER_PHONE_NUMBER_PLACEHOLDER": "Telefonnummer",
+        "REGISTER_STATE_TEXT": "Zustand",
+        "REGISTER_TOWNSHIP_TEXT": "Gemeinde",
+        "REGISTER_KIND_ACCOUNT": "Konto Typ",
+        "REGISTER_SELECT_KIND_ACCOUNT_WAITER": "Kellner",
+        "REGISTER_SELECT_KIND_ACCOUNT_CLIENT": "Kunde"
+    },
+    "TODOS_SIGN_OUT_TEXT": "Abmelden",
+    "TABS_CLIENT": {
+        "TABS_MY_EVENTS": "Meine Veranstaltungen",
+        "TABS_CREATE_EVENT": "Veranstaltung erstellen",
+        "TABS_WATCH_PROFILE": "Profil"
+    },
+    "TABS_WAITER": {
+        "TABS_EVENTS": "Veranstaltungen",
+        "TABS_MY_EVENTS": "Meine Veranstaltungen",
+        "TABS_WATCH_PROFILE": "Profil"
+    },
+    "WAITER_TODO_TABS":{
+        "NEW_PUBLICATIONS_TEXT": "nuevas ",
+        "ACCEPT_BUTTON": "akzeptieren",
+        "MY_EVENTS_TEXT": "meine Veranstaltungens",
+        "NAME_PLACEHOLDER": "Name / Namen",
+        "LAST_NAME_PLACEHOLDER": "Nachname",
+        "MOTHERS_LAST_NAME_PLACEHOLDER": "Nachname der Mutter",
+        "PHONE_NUMBER_PLACEHOLDER": "Telefonnummer",
+        "STATE_PLACEHOLDER": "Zustand",
+        "TOWNSHIP_PLACEHOLDER": "Gemeinde",
+        "SELECT_IMAGE": "Bild auswählen"
+    },
+    "CLIENT_TODO_TABS": {
+        "EVENT_NAME": "Name der Veranstaltung",
+        "REQUIREMENTS": "Anforderungen",
+        "WAITERS_QUANTITY": "Anzahl Kellner",
+        "PAYMENT": "Zahlung",
+        "EVENT_DAY": "Veranstaltungstag",
+        "STARTING_EVENT": "Beginn der veranstaltung",
+        "ENDING_EVENT": "ende der Veranstaltung",
+        "SUBURB": "Koln",
+        "STREET": "Straße",
+        "OUTDOOR_NUMBER": "Outdoor-Nummer",
+        "INTERIOR_NUMBER": "Innennummer (nicht obligatorisch)",
+        "PUBLISH_EVENT_BUTTON": "Veranstaltung posten",
+        "NEW_PUBLICATIONS_TEXT": "nuevas"
+        
+
+    }
+}

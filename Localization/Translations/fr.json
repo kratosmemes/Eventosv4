@@ -1,0 +1,62 @@
+{
+    "LOGIN": {
+        "LOGIN_TITLE": "Conexion",
+        "LOGIN_EMAIL_PLACEHOLDER": "Courrier électronique",
+        "LOGIN_PASSWORD_PLACEHOLDER": "Mot de passe",
+        "LOGIN_BUTTON":"Enter dans",
+        "LOGIN_CREATE_ACCOUNT":"créer un compte"
+    },
+    "REGISTER": {
+        "REGISTER_TITLE": "Enregister",
+        "REGISTER_EMAIL_PLACEHOLDER": "Courrier électronique",
+        "REGISTER_PASSWORD_PLACEHOLDER": "Mot de passe",
+        "REGISTER_NAME_PLACEHOLDER": "Nom/Noms",
+        "REGISTER_LAST_NAME_PLACEHOLDER": "nom du père",
+        "REGISTER_MOTHERS_LAST_NAME_PLACEHOLDER": "nom maternel",
+        "REGISTER_PHONE_NUMBER_PLACEHOLDER": "numéro de téléphone",
+        "REGISTER_STATE_TEXT": "Etat",
+        "REGISTER_TOWNSHIP_TEXT": "Municipalité",
+        "REGISTER_KIND_ACCOUNT": "type de compte",
+        "REGISTER_SELECT_KIND_ACCOUNT_WAITER": "Garçon",
+        "REGISTER_SELECT_KIND_ACCOUNT_CLIENT": "Client"
+    },
+    "TODOS_SIGN_OUT_TEXT": "fermer la session",
+    "TABS_CLIENt": {
+        "TABS_MY_EVENTS": "Mes événements",
+        "TABS_CREATE_EVENT": "Créer un évènement",
+        "TABS_WATCH_PROFILE": "Profil"
+    },
+    "TABS_WAITER": {
+        "TABS_EVENTS": "Ëvénements",
+        "TABS_MY_EVENTS": "Mes événements",
+        "TABS_WATCH_PROFILE": "Profil"
+    },
+    "WAITER_TODO_TABS":{
+        "NEW_PUBLICATIONS_TEXT": "nouveaux postes ",
+        "ACCEPT_BUTTON": "Accepter",
+        "MY_EVENTS_TEXT": "mes événements",
+        "NAME_PLACEHOLDER": "Nom/Noms",
+        "LAST_NAME_PLACEHOLDER": "nom du père",
+        "MOTHERS_LAST_NAME_PLACEHOLDER": "nom maternel",
+        "PHONE_NUMBER_PLACEHOLDER": "numéro de téléphone",
+        "STATE_PLACEHOLDER": "Etat",
+        "TOWNSHIP_PLACEHOLDER": "Municipalité",
+        "SELECT_IMAGE": "sélectionner une image"
+    },
+    "CLIENT_TODO_TABS": {
+        "EVENT_NAME": "Nom de l'événement",
+        "REQUIREMENTS": "Conditions",
+        "WAITERS_QUANTITY": "Nombre de serveurs",
+        "PAYMENT": "Paiement",
+        "EVENT_DAY": "jour de l'évnemt",
+        "STARTING_EVENT": "Début de l'événement.",
+        "ENDING_EVENT": "Fin de l'événement",
+        "SUBURB": "Eau de Cologne.",
+        "STREET": "Rue",
+        "OUTDOOR_NUMBER": "Numéro extérieur",
+        "INTERIOR_NUMBER": "Numéro intérieur(non obligatorie)",
+        "PUBLISH_EVENT_BUTTON": "Après l'occassion",
+        "NEW_PUBLICATIONS_TEXT": "nouveaux postes "
+
+    }
+}
